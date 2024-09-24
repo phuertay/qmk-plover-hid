@@ -70,6 +70,8 @@ enum qk_keycode_ranges {
     QK_AUDIO_MAX                   = 0x74BF,
     QK_STENO                       = 0x74C0,
     QK_STENO_MAX                   = 0x74FF,
+    QK_PLOVER_HID                  = 0x5A40,
+    QK_PLOVER_HID_MAX              = 0x5A80,
     QK_MACRO                       = 0x7700,
     QK_MACRO_MAX                   = 0x777F,
     QK_LIGHTING                    = 0x7800,
